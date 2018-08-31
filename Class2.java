@@ -1,6 +1,6 @@
 /**
  *
- * @author Your Name
+ * @author Chao Lin
  */
 
 public class Class2 {
